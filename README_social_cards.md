@@ -13,7 +13,7 @@ Imagine a social network, like Twitter or Instagram. Imagine electronic greeting
 
 The social cards application lets users sign up, create greeting cards, and follow each other. A user can see cards shown from newest to oldest: they can see a collection of their own cards, a collection of cards by users they follow, and a collection of all cards.
 
-Your application is really two applications -- a back-end API written with Django REST Framework and a front-end React application. These applications will communicate via requests from the front-end and responses from the back-end. The front-end application should be deployed on [Netlify](https://www.netlify.com/). The backend API is available at [TODO: THIS URL](https://todo.soon), and [documentation for the endpoints is here](https://todo.soon).
+Your application is really two applications -- a back-end API written with Django REST Framework and a front-end React application. These applications will communicate via requests from the front-end and responses from the back-end. The front-end application should be deployed on [Netlify](https://www.netlify.com/). The backend API is available at [https://social-cards.fly.dev](https://social-cards.fly.dev), and [documentation for the endpoints is here](https://social-cards.fly.dev/api/docs).
 
 ### Cards and Customizable Options
 
